@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Disallow: /Rene_Fiebelkorn_CV.pdf
